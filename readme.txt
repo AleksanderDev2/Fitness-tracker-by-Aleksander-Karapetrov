@@ -1,15 +1,15 @@
 ══════════════════════════════════════════════
-  ФИТНЕС ТРАКЕР — README
+  ФИТНЕС ТРАКЕР НА PYTHON ОТ АЛЕКСАНДЪР К. КАРАПЕТРОВ - СТУДЕНТ ПЪРВИ КУРС, СПЕЦИАЛНОСТ КН, ЗАДОЧНО ОБУЧЕНИЕ ФАК. № 229кнз — README
 ══════════════════════════════════════════════
 
 ОПИСАНИЕ:
-  Конзолно Python приложение за проследяване на тренировки
+  Конзолно приложение на Python за проследяване на тренировки
   и изгорени калории. Позволява добавяне на упражнения,
   сортиране по калории, филтриране по мускулна група и
   обобщена статистика.
 
 СТРУКТУРА НА ПРОЕКТА:
-  fitness_tracker/
+  Fitness-tracker-by-Aleksander-Karapetrov/
   ├── models.py          — клас FitnessTracker с методи
   ├── main.py            — главна програма (демонстрация)
   ├── requirements.txt   — използвани библиотеки
@@ -21,10 +21,10 @@
 
 СТАРТИРАНЕ:
   1. Клонирайте хранилището:
-       git clone https://github.com/<потребител>/fitness_tracker.git
+       git clone https://github.com/<user>/Fitness-tracker-by-Aleksander-Karapetrov.git
 
   2. Влезте в папката:
-       cd fitness_tracker
+       cd Fitness-tracker-by-Aleksander-Karapetrov
 
   3. Стартирайте програмата:
        python main.py
